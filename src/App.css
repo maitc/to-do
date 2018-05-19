@@ -1,0 +1,23 @@
+.App-header {
+  background-color: rgba(237, 222, 222, 0.8);
+  height: 65px;
+  padding: 20px;
+  color: rgb(173, 173, 173);
+  display: flex;
+  justify-content: center;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+  display: flex;
+  justify-content: center;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
